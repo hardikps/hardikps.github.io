@@ -31,7 +31,7 @@ window.onload = () =>{
                     name : 'माऊली',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 1 final.wav',
+                    songUrl :'https://drive.google.com/file/d/1DokND5IdpsKP8SvbRCRKA8Dzczp6qRa5/view?usp=sharing',
                     duration :'05:30' 
                 },
                 {
@@ -88,7 +88,7 @@ window.onload = () =>{
                     name : 'माऊली-1',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 1 final.wav',
+                    songUrl :'https://drive.google.com/file/d/1DokND5IdpsKP8SvbRCRKA8Dzczp6qRa5/view?usp=sharing',
                     duration :'05:30' 
                 },
                 {
