@@ -10,35 +10,35 @@ window.onload = () =>{
                     name : 'पाऊस',
                     artist : 'petarateam',
                     image :'paus.jpg',
-                    songUrl :'SHEVTACHA PAUS.wav',
+                    songUrl :'SHEVTACHA PAUS.mp3',
                     duration :'10:58' 
                 },
                 {
                     name : 'गाभुळलेली चिंच',
                     artist : 'petarateam',
                     image :'gc.jpg',
-                    songUrl :'gc.wav',
+                    songUrl :'gc.mp3',
                     duration :'08:02' 
                 },
                 {
                     name : 'मीरा',
                     artist : 'petarateam',
                     image :'meera.jpg',
-                    songUrl :'meera.wav',
+                    songUrl :'meera.mp3',
                     duration :'07:25' 
                 },
                 {
                     name : 'माऊली',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'https://drive.google.com/file/d/1DokND5IdpsKP8SvbRCRKA8Dzczp6qRa5/view?usp=sharing',
+                    songUrl :'Mauli 1 final.mp3',
                     duration :'05:30' 
                 },
                 {
                     name : 'राधा',
                     artist : 'petarateam',
                     image :'radha.jpg',
-                    songUrl:'RADHA.wav',
+                    songUrl:'RADHA.mp3',
                     duration :'05:11' 
                 },
                
@@ -47,14 +47,14 @@ window.onload = () =>{
                     name : 'पाऊस',
                     artist : 'petarateam',
                     image :'paus.jpg',
-                    songUrl :'SHEVTACHA PAUS.wav',
+                    songUrl :'SHEVTACHA PAUS.mp3',
                     duration :'03:49' 
                 },
                 {
                     name : 'पाऊस',
                     artist : 'petarateam',
                     image :'paus.jpg',
-                    songUrl :'SHEVTACHA PAUS.wav',
+                    songUrl :'SHEVTACHA PAUS.mp3',
                     duration :'03:49' 
                 },
             
@@ -62,21 +62,21 @@ window.onload = () =>{
                     name : 'गाभुळलेली चिंच',
                     artist : 'petarateam',
                     image :'gc.jpg',
-                    songUrl :'gc.wav',
+                    songUrl :'gc.mp3',
                     duration :'08:02' 
                 },
                 {
                     name : 'मीरा',
                     artist : 'petarateam',
                     image :'meera.jpg',
-                    songUrl :'meera.wav',
+                    songUrl :'meera.mp3',
                     duration :'03:25' 
                 },
                 {
                     name : 'राधा',
                     artist : 'petarateam',
                     image :'radha.jpg',
-                    songUrl:'RADHA.wav',
+                    songUrl:'RADHA.mp3',
                     duration :'03:59' 
                 },
 
@@ -88,42 +88,42 @@ window.onload = () =>{
                     name : 'माऊली-1',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'https://drive.google.com/file/d/1DokND5IdpsKP8SvbRCRKA8Dzczp6qRa5/view?usp=sharing',
+                    songUrl :'Mauli 1 final.mp3',
                     duration :'05:30' 
                 },
                 {
                     name : 'माऊली-2',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 2 final.wav',
+                    songUrl :'Mauli 2 final.mp3',
                     duration :'05:36' 
                 },
                 {
                     name : 'माऊली-3',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 3 final.wav',
+                    songUrl :'Mauli 3 final.mp3',
                     duration :'05:16' 
                 },
                 {
                     name : 'माऊली-4',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 4 final.wav',
+                    songUrl :'Mauli 4 final.mp3',
                     duration :'05:59' 
                 },
                 {
                     name : 'माऊली-5',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 5 final.wav',
+                    songUrl :'Mauli 5 final.mp3',
                     duration :'05:43' 
                 },
                 {
                     name : 'माऊली-6',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 6 final.wav',
+                    songUrl :'Mauli 6 final.mp3',
                     duration :'04:24' 
                 },
                
