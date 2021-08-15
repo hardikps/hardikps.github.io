@@ -31,7 +31,7 @@ window.onload = () =>{
                     name : 'माऊली',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'https://github.com/hardikps/hardikps.github.io/blob/main/MAULI%201%20final.mp3',
+                    songUrl :'Mauli 1 final.mp3',
                     duration :'05:30' 
                 },
                 {
