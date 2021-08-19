@@ -88,42 +88,42 @@ window.onload = () =>{
                     name : 'माऊली-1',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 1 final.mp3',
+                    songUrl :'MAULI 1 final.mp3',
                     duration :'05:30' 
                 },
                 {
                     name : 'माऊली-2',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 2 final.mp3',
+                    songUrl :'MAULI 2 final.mp3',
                     duration :'05:36' 
                 },
                 {
                     name : 'माऊली-3',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 3 final.mp3',
+                    songUrl :'MAULI 3 final.mp3',
                     duration :'05:16' 
                 },
                 {
                     name : 'माऊली-4',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 4 final.mp3',
+                    songUrl :'MAULI 4 final.mp3',
                     duration :'05:59' 
                 },
                 {
                     name : 'माऊली-5',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 5 final.mp3',
+                    songUrl :'MAULI 5 final.mp3',
                     duration :'05:43' 
                 },
                 {
                     name : 'माऊली-6',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 6 final.mp3',
+                    songUrl :'MAULI 6 final.mp3',
                     duration :'04:24' 
                 },
                
