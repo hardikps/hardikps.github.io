@@ -460,7 +460,7 @@ window.onload = () =>{
                 audioCtrl.audioImage[0].src = `img/${songObject.image}`;
                 audioCtrl.audioImage[1].src = `img/${songObject.image}`;
                 audioCtrl.audioSingerName.textContent = songObject.artist;
-                audioCtrl.audioPlayer.src =`mp3//${songObject.songUrl}`;
+                audioCtrl.audioPlayer.src =`${songObject.songUrl}`;
                 audioCtrl.audioEndDuration.textContent = songObject.duration;
                 DOM.audioProgressBarFill.forEach( btn => btn.style.width = 0 + "%" );
                 audioPlayEnable();    
