@@ -10,35 +10,35 @@ window.onload = () =>{
                     name : 'पाऊस',
                     artist : 'petarateam',
                     image :'paus.jpg',
-                    songUrl :'SHEVTACHA PAUS.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/SHEVTACHA%20PAUS.wav?alt=media&token=16088fb4-d3c5-48e8-b1ba-e0caf724d664',
                     duration :'10:58' 
                 },
                 {
                     name : 'गाभुळलेली चिंच',
                     artist : 'petarateam',
                     image :'gc.jpg',
-                    songUrl :'gc.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/gc.wav?alt=media&token=77228ca3-2232-4dc4-bd4d-3ba1ae2c46bf',
                     duration :'08:02' 
                 },
                 {
                     name : 'मीरा',
                     artist : 'petarateam',
                     image :'meera.jpg',
-                    songUrl :'meera.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/meera.wav?alt=media&token=9a0ae335-f4c9-4c09-8b04-37f320297e9f',
                     duration :'07:25' 
                 },
                 {
                     name : 'माऊली',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'Mauli 1 final.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/MAULI%201%20final.wav?alt=media&token=d9ba6a0d-3412-440f-a76c-e8963fe75e72',
                     duration :'05:30' 
                 },
                 {
                     name : 'राधा',
                     artist : 'petarateam',
                     image :'radha.jpg',
-                    songUrl:'RADHA.mp3',
+                    songUrl:'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/RADHA.wav?alt=media&token=ba64bb99-321f-45f7-bc5f-3efc0cf5b216',
                     duration :'05:11' 
                 },
                
@@ -47,37 +47,37 @@ window.onload = () =>{
                     name : 'पाऊस',
                     artist : 'petarateam',
                     image :'paus.jpg',
-                    songUrl :'SHEVTACHA PAUS.mp3',
-                    duration :'03:49' 
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/SHEVTACHA%20PAUS.wav?alt=media&token=16088fb4-d3c5-48e8-b1ba-e0caf724d664',
+                    duration :'10:58' 
                 },
                 {
                     name : 'पाऊस',
                     artist : 'petarateam',
                     image :'paus.jpg',
-                    songUrl :'SHEVTACHA PAUS.mp3',
-                    duration :'03:49' 
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/SHEVTACHA%20PAUS.wav?alt=media&token=16088fb4-d3c5-48e8-b1ba-e0caf724d664',
+                    duration :'10:58' 
                 },
             
                 {
                     name : 'गाभुळलेली चिंच',
                     artist : 'petarateam',
                     image :'gc.jpg',
-                    songUrl :'gc.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/gc.wav?alt=media&token=77228ca3-2232-4dc4-bd4d-3ba1ae2c46bf',
                     duration :'08:02' 
                 },
                 {
                     name : 'मीरा',
                     artist : 'petarateam',
                     image :'meera.jpg',
-                    songUrl :'meera.mp3',
-                    duration :'03:25' 
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/meera.wav?alt=media&token=9a0ae335-f4c9-4c09-8b04-37f320297e9f',
+                    duration :'07:25' 
                 },
                 {
                     name : 'राधा',
                     artist : 'petarateam',
                     image :'radha.jpg',
-                    songUrl:'RADHA.mp3',
-                    duration :'03:59' 
+                    songUrl:'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/RADHA.wav?alt=media&token=ba64bb99-321f-45f7-bc5f-3efc0cf5b216',
+                    duration :'05:11' 
                 },
 
             ]
@@ -88,42 +88,42 @@ window.onload = () =>{
                     name : 'माऊली-1',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'MAULI 1 final.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/MAULI%201%20final.wav?alt=media&token=d9ba6a0d-3412-440f-a76c-e8963fe75e72',
                     duration :'05:30' 
                 },
                 {
                     name : 'माऊली-2',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'MAULI 2 final.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/MAULI%202%20Final.wav?alt=media&token=3085224f-8e51-49fb-b564-d0cbcfa479ab',
                     duration :'05:36' 
                 },
                 {
                     name : 'माऊली-3',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'MAULI 3 final.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/MAULI%203%20Final.wav?alt=media&token=2a15d75b-e0e6-4f4c-95a2-8a6361eae42c',
                     duration :'05:16' 
                 },
                 {
                     name : 'माऊली-4',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'MAULI 4 final.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/MAULI%204%20Final.wav?alt=media&token=b0c47730-e08a-4995-af01-d044ccb5b47e',
                     duration :'05:59' 
                 },
                 {
                     name : 'माऊली-5',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'MAULI 5 final.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/MAULI%205%20Final.wav?alt=media&token=e26ce9ba-929e-463a-a95c-f0823854c600',
                     duration :'05:43' 
                 },
                 {
                     name : 'माऊली-6',
                     artist : 'petarateam',
                     image :'mauli.jpg',
-                    songUrl :'MAULI 6 final.mp3',
+                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/MAULI%206%20Final.wav?alt=media&token=3c2fcbbe-9fcd-4995-a3c8-98c11f1871b6',
                     duration :'04:24' 
                 },
                
