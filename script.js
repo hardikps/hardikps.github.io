@@ -6,27 +6,7 @@ window.onload = () =>{
 
 
             const songs = [
-                {
-                    name : 'पाऊस',
-                    artist : 'petarateam',
-                    image :'paus.jpg',
-                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/SHEVTACHA%20PAUS.wav?alt=media&token=16088fb4-d3c5-48e8-b1ba-e0caf724d664',
-                    duration :'10:58' 
-                },
-                {
-                    name : 'गाभुळलेली चिंच',
-                    artist : 'petarateam',
-                    image :'gc.jpg',
-                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/gc.wav?alt=media&token=77228ca3-2232-4dc4-bd4d-3ba1ae2c46bf',
-                    duration :'08:02' 
-                },
-                {
-                    name : 'मीरा',
-                    artist : 'petarateam',
-                    image :'meera.jpg',
-                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/meera.wav?alt=media&token=9a0ae335-f4c9-4c09-8b04-37f320297e9f',
-                    duration :'07:25' 
-                },
+                
                 {
                     name : 'माऊली',
                     artist : 'petarateam',
@@ -34,51 +14,7 @@ window.onload = () =>{
                     songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/MAULI%201%20final.wav?alt=media&token=d9ba6a0d-3412-440f-a76c-e8963fe75e72',
                     duration :'05:30' 
                 },
-                {
-                    name : 'राधा',
-                    artist : 'petarateam',
-                    image :'radha.jpg',
-                    songUrl:'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/RADHA.wav?alt=media&token=ba64bb99-321f-45f7-bc5f-3efc0cf5b216',
-                    duration :'05:11' 
-                },
-               
                 
-                {
-                    name : 'पाऊस',
-                    artist : 'petarateam',
-                    image :'paus.jpg',
-                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/SHEVTACHA%20PAUS.wav?alt=media&token=16088fb4-d3c5-48e8-b1ba-e0caf724d664',
-                    duration :'10:58' 
-                },
-                {
-                    name : 'पाऊस',
-                    artist : 'petarateam',
-                    image :'paus.jpg',
-                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/SHEVTACHA%20PAUS.wav?alt=media&token=16088fb4-d3c5-48e8-b1ba-e0caf724d664',
-                    duration :'10:58' 
-                },
-            
-                {
-                    name : 'गाभुळलेली चिंच',
-                    artist : 'petarateam',
-                    image :'gc.jpg',
-                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/gc.wav?alt=media&token=77228ca3-2232-4dc4-bd4d-3ba1ae2c46bf',
-                    duration :'08:02' 
-                },
-                {
-                    name : 'मीरा',
-                    artist : 'petarateam',
-                    image :'meera.jpg',
-                    songUrl :'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/meera.wav?alt=media&token=9a0ae335-f4c9-4c09-8b04-37f320297e9f',
-                    duration :'07:25' 
-                },
-                {
-                    name : 'राधा',
-                    artist : 'petarateam',
-                    image :'radha.jpg',
-                    songUrl:'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/RADHA.wav?alt=media&token=ba64bb99-321f-45f7-bc5f-3efc0cf5b216',
-                    duration :'05:11' 
-                },
 
             ]
 
