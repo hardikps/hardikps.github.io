@@ -13,6 +13,13 @@ let songIndex = 0;
 
 // Songs info
 const songs = [
+   {
+    title: 'गाभुळलेली चिंच',
+    artist: 'पेटारा टीम',
+    coverPath: 'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/gc.jpg?alt=media&token=d17e706a-6b42-494a-86cb-0258245d21ee',
+    discPath: 'https://firebasestorage.googleapis.com/v0/b/fluttervideo-5dbe1.appspot.com/o/GABHULELI%20CHINCH.mp3?alt=media&token=92bacccc-1f83-4bce-a609-24ae9898018d',
+    duration: '6:58',
+  },
   {
     title: 'माऊली-1',
     artist: 'पेटारा टीम',
